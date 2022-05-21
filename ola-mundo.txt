@@ -1,2 +1,1 @@
 var nomeDaUsuaria = prompt("Me chamo Lis, qual seu nome?");
-alert(`Seja bem vinda ao meu primeiro programa ${nomeDaUsuaria}`);
